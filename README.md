@@ -1,20 +1,18 @@
 # Skills & Agents Repo LAB
 
-Repositorio para almacenar y organizar mis **skills y agentes de IA**.  
-Cada agente está especializado en un tema o tarea específica y puede ser usado o modificado fácilmente.
+Repository to store and organize my **AI skills and agents**.  
+Each agent is specialized in a specific topic or task and can be easily used or modified.
 
-Skills oficiales: https://skills.sh/
+Official skills: https://skills.sh/
 
- 
+## How to Use
 
-## Cómo usar
+1. Explore the `agents` and `skills` folders.
+2. Read the instructions in each agent or skill.
+3. Add new agents or improvements according to your needs!
 
-1. Explora las carpetas `agents` y `skills`.
-2. Lee las instrucciones en cada agente o skill.
-3. ¡Añade nuevos agentes o mejoras según tus necesidades!
+## Contributing
 
-## Contribuir
-
-1. Haz un fork del repositorio.
-2. Agrega tu agente o skill.
-3. Envía un pull request con tu aporte.
+1. Fork the repository.
+2. Add your agent or skill.
+3. Submit a pull request with your contribution.
